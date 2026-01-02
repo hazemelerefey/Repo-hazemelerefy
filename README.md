@@ -1,5 +1,4 @@
-# Hi there, I'm Hazem Elerefy 👋
-### 🚀 AI & Data Analytics Specialist | Digilians Graduate
+
 
 I am a passionate Data Analyst and AI Engineer based in Egypt, specializing in transforming complex data into actionable insights and building intelligent AI agents.
 
